@@ -1,0 +1,10 @@
+로컬 저장소와 원격저장소 연결하기
+ - C드라이브에 git2020폴더를 추가하였고
+ - git init으로 초기화한 상태임
+ - 아래 명령어를 실행시킴.
+	:  git remote add origin https://github.com/Choi-younghoon/Java.git
+	: repo 이름이 Java임.
+ - 실행하고 나면 
+	: git remote -v
+	  orgin http ~~~
+	  orgin http ~~~
